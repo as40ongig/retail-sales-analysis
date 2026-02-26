@@ -12,7 +12,7 @@ The objective was to derive actionable business insights and present them throug
 - **SQL** – Data analysis & business queries
 - **Python (Pandas)** – Data cleaning & preprocessing
 - **Power BI** – Interactive dashboard & visualization
-- **CSV Dataset** – Source data (Kaggle)
+- **CSV Dataset** – Source data (Kaggle : https://www.kaggle.com/datasets/sahilislam007/shopping-trends-and-customer-behaviour-dataset)
 
 ---
 
